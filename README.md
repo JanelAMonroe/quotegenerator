@@ -22,15 +22,15 @@ JavaScript
 
 **Setup Instructions**
 
-Clone the repository:
+Clone the repository
 
-git clone https://github.com/yourusername/quote-generator.git
+git clone 
 
-Navigate to the project directory:
+Navigate to the project directory
 
 cd quote-generator
 
-Open index.html in a browser to run the application.
+Open index.html in a browser to run the application
 
 **File Structure**
 
